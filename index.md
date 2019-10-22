@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Main Page for Robert Harr
 
 You can use the [editor on GitHub](https://github.com/robert-harr/robert-harr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
